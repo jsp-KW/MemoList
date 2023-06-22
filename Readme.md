@@ -1,6 +1,6 @@
 # spring boot 3.1.0
 # Java version 11
-# mariadb
+# mariadb 10.5
 
 # html
 # css
